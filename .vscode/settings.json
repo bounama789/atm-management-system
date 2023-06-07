@@ -1,0 +1,16 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "enabled",
+    "cmake.sourceDirectory": "/mnt/c/Users/Coulibaly/Documents/GitHub/01-1/atm-system",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/c/Users/Coulibaly/Documents/GitHub/01-1/atm-system",
+            "binaryPath": "/mnt/c/Users/Coulibaly/Documents/GitHub/01-1/atm-system/atm",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "cstdlib": "c",
+        "typeinfo": "c",
+        "cstdio": "c"
+    }
+}
